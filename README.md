@@ -1,7 +1,7 @@
 # donor-attrition
 Predicting which donors will continue or cease to donate to Toronto charity.
 
-This work was done for the Data For Good Datathon on May 4, 2019 in support of the charity Youth Without Shelter, and in collaboration with Ashwin Jha, Don Nguyen, Reena Shaw, Habib Jaffer, and Will Edwards.
+This work was done for the Data For Good Datathon on May 4, 2019, hosted at CapCo in Toronto, in support of the charity Youth Without Shelter, and in collaboration with Ashwin Jha, Don Nguyen, Reena Shaw, Habib Jaffer, and Will Edwards.
 
 Donor attrition is a major problem for charities, and correcting it can lead to much greater overall fundraising performance. We were asked to find patterns in the charity's donation data to predict which donors may be at risk of lapsing (ceasing to donate). We cleaned and prepared their data to feed into various machine learning models. 
 
