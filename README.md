@@ -1,5 +1,5 @@
 # donor-attrition
-Predicting which donors will continue or cease to donate to Toronto charity.
+Predicting which donors will continue or cease to donate to a Toronto charity.
 
 This work was done for the Data For Good Datathon on May 4, 2019, hosted at CapCo in Toronto, in support of the charity Youth Without Shelter, and in collaboration with Ashwin Jha, Don Nguyen, Reena Shaw, Habib Jaffer, and Will Edwards.
 
